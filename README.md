@@ -9,7 +9,7 @@
 ```
 ###Project instructions
 ```
-For Filter:
+
 1. Sort by one filter category at a time.
 2. After viewing the selected filter results uncheck the selected filter in the chosen category and move on to filter with next category.
 3. Search bar for searching warehouse.
