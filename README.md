@@ -1,24 +1,19 @@
 # first-task
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+1. Clone it or download the zip file
+2. npm install 
+3. 
 ```
-
-### Compiles and minifies for production
+###Project instructions
 ```
-npm run build
+For Filter:
+1. Sort by one filter category at a time.
+2. After viewing the selected filter results uncheck the selected filter in the chosen category and move on to filter with next category.
+3. Search bar for searching warehouse.
+4. View details will lead you to the details page of the warehouse.
+5. User Can edit any field
+6. Custom field addition
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
